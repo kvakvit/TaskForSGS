@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskForSGS", "TaskForSGS\TaskForSGS.csproj", "{221918F1-5BA2-42E7-9DB5-5D2673DB6DC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{221918F1-5BA2-42E7-9DB5-5D2673DB6DC0}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{221918F1-5BA2-42E7-9DB5-5D2673DB6DC0}.Debug|iPhone.Build.0 = Debug|iPhone
+		{221918F1-5BA2-42E7-9DB5-5D2673DB6DC0}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{221918F1-5BA2-42E7-9DB5-5D2673DB6DC0}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{221918F1-5BA2-42E7-9DB5-5D2673DB6DC0}.Release|iPhone.ActiveCfg = Release|iPhone
+		{221918F1-5BA2-42E7-9DB5-5D2673DB6DC0}.Release|iPhone.Build.0 = Release|iPhone
+		{221918F1-5BA2-42E7-9DB5-5D2673DB6DC0}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{221918F1-5BA2-42E7-9DB5-5D2673DB6DC0}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
